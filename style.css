@@ -1,0 +1,41 @@
+body {
+}
+
+#banner {
+width: 100%;
+margin: auto;
+}
+
+.principal {
+background:#ffb6c1 }
+
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center
+}
+
+#missao {
+font-size:20px
+}
+
+em strong {
+	color: #1E90FF;
+}
+
+.itens {
+	font-style: italic
+}
+
+
+.atividades {
+	background: #FFFFFF;
+}
+
+.cronograma {
+	background: #FFFFFF;
+}
+	
